@@ -1,0 +1,21 @@
+John Doe
+Email: johndoe@example.com
+Phone: +1 234 567 8901
+
+Professional Summary
+Motivated software engineer with strong experience in Python, data analysis, and AI model development. Passionate about building intelligent applications and automation systems.
+Skills
+Python, TensorFlow, PyTorch, SQL
+Machine Learning, NLP, Data Visualization
+REST APIs, Streamlit, Git
+Experience
+Software Engineer — ABC Technologies (Jan 2022 – Present)
+- Developed and maintained ML models for data analytics.
+- Automated report generation pipelines using Python and Pandas.
+Intern — XYZ Innovations (Jun 2021 – Dec 2021)
+- Assisted in building a chatbot using TensorFlow and LangChain.
+Education
+B.Tech in Computer Science — University of Example (2021)
+Projects
+Sentiment Analyzer App — Built a web app to classify text sentiment using LSTM.
+AI Chat Assistant — Integrated GPT API for conversational response generation.
